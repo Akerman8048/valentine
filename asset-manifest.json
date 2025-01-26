@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/valentine/static/css/main.4bf482c2.css",
+    "main.js": "/valentine/static/js/main.28239782.js",
+    "static/media/video.MP4": "/valentine/static/media/video.46eeb66a49bb356c9bca.MP4",
+    "static/media/kiss.gif": "/valentine/static/media/kiss.7f4abad689a7f6008440.gif",
+    "static/media/dance.gif": "/valentine/static/media/dance.90e73df588a9becb2e28.gif",
+    "static/media/love.mp3": "/valentine/static/media/love.dc28ccdf4ac67aeb1aa2.mp3",
+    "static/media/peach-goma-flowers.gif": "/valentine/static/media/peach-goma-flowers.8ef7f04719000c6266c9.gif",
+    "static/media/hi.jpg": "/valentine/static/media/hi.aad4673d18c85cb7ede1.jpg",
+    "static/media/ha.jpg": "/valentine/static/media/ha.78286217f3283e874bc8.jpg",
+    "static/media/cat.gif": "/valentine/static/media/cat.e590007b0e592dc1e452.gif",
+    "index.html": "/valentine/index.html",
+    "main.4bf482c2.css.map": "/valentine/static/css/main.4bf482c2.css.map",
+    "main.28239782.js.map": "/valentine/static/js/main.28239782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bf482c2.css",
+    "static/js/main.28239782.js"
+  ]
+}
