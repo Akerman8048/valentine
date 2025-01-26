@@ -27,7 +27,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename='/valentine'>
       <div className='App'>
         {/* Аудіо додається глобально */}
         <audio ref={audioRef} src={love} loop />
